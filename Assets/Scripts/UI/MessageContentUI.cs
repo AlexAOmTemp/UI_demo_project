@@ -17,7 +17,6 @@ public class MessageContentUI : MonoBehaviour
         _title.SetText( messageDataSO.Title );
         _message.SetText( messageDataSO.Message );
         _date.SetText( messageDataSO.Date.Substring(0,5) );
-        Debug.Log(_date.text);
         _icon.sprite = messageDataSO.Icon;
         _characterID = messageDataSO.CharacterId;
     }
