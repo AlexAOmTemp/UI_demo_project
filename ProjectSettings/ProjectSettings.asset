@@ -135,8 +135,7 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   bundleVersion: 1.0.2
   preloadedAssets:
-  - {fileID: -8807800294476037028, guid: 3ad6bf0b4ceb21b4a89f6886c516009d, type: 2}
-  - {fileID: 11400000, guid: ad0c381085b41224892abe3c3e6ff398, type: 2}
+  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
